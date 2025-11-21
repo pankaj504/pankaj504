@@ -5,15 +5,6 @@
 - Appwrite • React Query • Socket.io  
 - HTML • CSS • Git
 
-🚀 Projects:
-I recently built a full-stack social media application with real-time chat, authentication, and a responsive UI.
-
-🎯 Currently learning:
-Advanced React patterns, state management, and performance optimization.
-
-📫 Reach me at: your-email@example.com
-</h2>
-
 ###
 
 <div align="center">
