@@ -1,9 +1,8 @@
-<h2 align="left">H👋 Hi, I'm Pankaj — a React.js Developer passionate about building clean, modern, and scalable web applications.
+<h2 align="left">👋 Hi, I'm Pankaj — a React.js Developer passionate about building clean, modern, and scalable web applications.
+- Frontend Developer specializing in React.js.  
+- Focused on writing clean code, building real projects, and improving daily.  
+- Open to collaboration and new opportunities!
 
-💻 I work with:
-- React.js • JavaScript • Tailwind CSS  
-- Appwrite • React Query • Socket.io  
-- HTML • CSS • Git
 
 ###
 
