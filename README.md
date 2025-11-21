@@ -1,4 +1,18 @@
-<h2 align="left">Hi 👋! My name is Pankaj and I'm a Web Developer, from Almora(Uttarakhand).</h2>
+<h2 align="left">H👋 Hi, I'm Pankaj — a React.js Developer passionate about building clean, modern, and scalable web applications.
+
+💻 I work with:
+- React.js • JavaScript • Tailwind CSS  
+- Appwrite • React Query • Socket.io  
+- HTML • CSS • Git
+
+🚀 Projects:
+I recently built a full-stack social media application with real-time chat, authentication, and a responsive UI.
+
+🎯 Currently learning:
+Advanced React patterns, state management, and performance optimization.
+
+📫 Reach me at: your-email@example.com
+</h2>
 
 ###
 
