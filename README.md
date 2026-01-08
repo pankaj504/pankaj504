@@ -1,3 +1,4 @@
+![logo](https://github.com/pankaj504/pankaj504/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner%20.png)
 # Hi 👋, I'm Pankaj Lohani
 
 ### A Passionate Frontend Developer
