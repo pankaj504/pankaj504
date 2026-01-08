@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj504&" alt="pankaj504" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/pankaj504/pankaj504/blob/output/github-contribution-grid-snake.svg" />
