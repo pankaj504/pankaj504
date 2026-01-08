@@ -1,3 +1,4 @@
+![logo](https://github.com/pankaj504/pankaj504/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=35&color=F71E36&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pankaj+Lohani" />
 </h1>
