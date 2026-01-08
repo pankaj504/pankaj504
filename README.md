@@ -1,27 +1,32 @@
-![logo](https://github.com/pankaj504/pankaj504/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner%20.png)
-# Hi 👋, I'm Pankaj Lohani
+<h1 align="center">Hi 👋, I'm Pankaj Lohani</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzkzdHRxODIyZnM0YzB2OGR2MXludjZsaHdyNG1yOTVrN2JpanRuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/200w.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj504&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj504" /> </p>
 
-### A Passionate Frontend Developer
+- 🔭 I’m currently working on [Travel Ai](https://travel-ai-sable.vercel.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj504&label=Profile views&color=0e75b6&style=flat" alt="pankaj504" /> </p>
+- 🌱 I’m currently learning **Java , Spring**
 
-- 🌱 I'm currently learning **Java And Spring Boot**
+- 👨‍💻 All of my projects are available at [https://pankaj-portfolio-swart.vercel.app/](https://pankaj-portfolio-swart.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **pankajlohani504@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://pankaj-portfolio-swart.vercel.app/](https://pankaj-portfolio-swart.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Fbu-1Rk4iMN9X3TdYUcC1FQ96xzLeEsC/view?usp=sharing](https://drive.google.com/file/d/1Fbu-1Rk4iMN9X3TdYUcC1FQ96xzLeEsC/view?usp=sharing)**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Fbu-1Rk4iMN9X3TdYUcC1FQ96xzLeEsC/view?usp=sharing](https://drive.google.com/file/d/1Fbu-1Rk4iMN9X3TdYUcC1FQ96xzLeEsC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/pankaj504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pankaj504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pankaj-lohani-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-lohani-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/panku.lohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panku.lohani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj504&show_icons=true&locale=en&layout=compact" alt="pankaj504" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj504&show_icons=true&locale=en" alt="pankaj504" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj504&" alt="pankaj504" /></p>
